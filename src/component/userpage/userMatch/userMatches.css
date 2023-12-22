@@ -1,0 +1,49 @@
+.matchLine {
+  position: relative;
+  left: 16.5%;
+  top: 4px;
+  width: 1030px;
+  height: 0.5px;
+  background-color: rgb(154, 154, 154);
+}
+
+.list {
+  display: flex;
+}
+.list h4 {
+  position: relative;
+  left: 15%;
+  text-align: center;
+  margin-left: 50px;
+}
+
+.list img {
+  margin-right: 5px;
+}
+
+.opScore {
+  position: relative;
+  top: 15px;
+  left: 100%;
+  background-color: rgb(48, 48, 48);
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 13px;
+  width: 400px;
+  height: 27px;
+}
+
+.opScore img {
+  width: 15px;
+  height: 15px;
+  color: white;
+}
+
+.opScore button {
+  cursor: pointer;
+  position: relative;
+  left: 40px;
+  border: 0px;
+  background-color: rgb(48, 48, 48);
+}

@@ -1,0 +1,53 @@
+.officeInfo {
+  display: flex;
+  position: absolute;
+  top: 120%;
+  left: 20%;
+}
+
+.mainPreview {
+  display: flex;
+  position: relative;
+  top: -20px;
+  color: white;
+}
+
+.topPreview {
+  display: table;
+  margin-left: 70px;
+}
+
+.preview span {
+  display: block; /* 블록 레벨로 설정하여 수직으로 정렬 */
+  margin-bottom: 3px; /* 원하는 간격 설정 (선택 사항) */
+}
+
+.line {
+  position: absolute;
+  top: 160%;
+  left: 20%;
+  background-color: white;
+  width: 1000px;
+  height: 1px;
+}
+
+.office {
+  position: absolute;
+  top: 160%;
+  left: 20%;
+  font-size: 11px;
+  color: white;
+}
+
+.sns {
+  position: absolute;
+  top: 162%;
+  left: 70%;
+}
+.sns img {
+  margin-left: 10px;
+}
+
+.discord {
+  margin-left: 5px;
+}

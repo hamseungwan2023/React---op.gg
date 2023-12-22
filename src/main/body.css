@@ -1,0 +1,107 @@
+.body img {
+  position: absolute;
+  top: 15%;
+  left: 40%;
+}
+.body .searchBar {
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  background-color: white;
+  width: 800px;
+  height: 65px;
+  border-radius: 30px;
+}
+.body .SBspan {
+  position: relative;
+  top: -15px;
+  left: 25px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: bold;
+  color: #202d37;
+  color: var(--gray900);
+  margin-bottom: 4px;
+  font-style: normal;
+}
+.body .SBspan1 {
+  position: relative;
+  top: -15px;
+  left: 225px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: bold;
+  color: #202d37;
+  color: var(--gray900);
+  margin-bottom: 4px;
+  font-style: normal;
+}
+.body .searchBar select {
+  position: relative;
+  top: 10px;
+  left: -25px;
+  width: 200px;
+  height: 30px;
+  border: 0px;
+}
+
+.body input {
+  position: relative;
+  top: 13px;
+  height: 30px;
+  width: 450px;
+  border: 0px;
+}
+
+.body .searchBar button {
+  position: relative;
+  top: 8px;
+  left: 40px;
+  background-color: white;
+  color: #5383e8;
+  border: 0px;
+  font-size: 20px;
+  height: 50px;
+}
+.bottomBtn {
+  position: absolute;
+  top: 50%;
+  left: 38%;
+}
+.bottomBtn button {
+  border: 0px;
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+  width: 200px;
+  height: 40px;
+}
+
+.bottomBtn button svg {
+  position: relative;
+  left: -4px;
+  border-radius: 100%;
+  background-color: #e84057;
+}
+.bottomBtn button img {
+  position: relative;
+  left: -3px;
+}
+
+.ad {
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  width: 1000px;
+  height: 200px;
+  background-color: white;
+}
+
+.popular {
+  position: absolute;
+  top: 85%;
+  left: 20%;
+  background-color: white;
+  width: 1000px;
+  height: 200px;
+}

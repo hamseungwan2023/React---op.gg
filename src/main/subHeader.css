@@ -1,0 +1,42 @@
+.subHeader {
+  background-color: #5383e8;
+}
+
+.subHeader span {
+  position: relative;
+  left: 15%;
+  top: -6px;
+  margin-left: 30px;
+  color: #b3cdff;
+}
+
+.subHeaderBtn {
+  position: relative;
+  left: 37.6%;
+  top: -30px;
+  background: url(https://s-lol-web.op.gg/assets/images/buttons/icon-navi-lol@2x.png);
+  margin-left: 500px;
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-color: #4171d6;
+  border: 0px;
+  border-radius: 10px;
+  width: 170px;
+  height: 25px;
+}
+.subHeaderBtn:hover {
+  background-color: #2f5ec0;
+}
+
+.btn {
+  font-weight: 700;
+  color: #feec9c;
+}
+
+.subHeader .home {
+  color: white;
+}
+.subHeader .gameMode {
+  color: #00fede;
+}
